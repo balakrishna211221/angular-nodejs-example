@@ -11,5 +11,5 @@ RUN npm install
 COPY server.js .
 
 EXPOSE 3080
-
+#exposeing on 3080
 CMD ["node", "server.js"]
