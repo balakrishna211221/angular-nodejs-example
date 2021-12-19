@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'angular-alonelion'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8C2E6F20463D48F3BAF78703E99885F9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9DE1F8DB8A2643C589E3183342000878 }}
           package: .
